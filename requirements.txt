@@ -1,0 +1,22 @@
+# requirements before running proyecto.ipynb
+
+# Manipulación y análisis de datos
+pandas
+numpy
+openpyxl      
+
+# Visualización
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn     
+xgboost           
+imbalanced-learn  
+
+# Serialización del modelo
+joblib            
+
+# Entorno de ejecución del notebook
+jupyter
+
